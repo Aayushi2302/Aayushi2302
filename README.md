@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/aayushi-sharma-910234216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayushi-sharma-910234216" height="30" width="40" /></a>
 <a href="https://kaggle.com/sharma2302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sharma2302" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aayushi2302" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aayushi2302" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sharmaaayushi231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sharmaaayushi231" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@sharmaaayushi231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sharmaaayushi231" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aayushi2302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aayushi2302" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sharmaaayushi2302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sharmaaayushi2302" height="30" width="40" /></a>
 </p>
@@ -32,6 +32,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushi2302&show_icons=true&locale=en&layout=compact" alt="aayushi2302" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushi2302&" alt="aayushi2302" /></p>
+
 
 
 
