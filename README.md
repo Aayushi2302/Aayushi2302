@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sharmaaayushi2302@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/qvX56](shorturl.at/qvX56)
+- 📄 Know about my experiences [https://bit.ly/3xsHEyn](https://bit.ly/3xsHEyn)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
