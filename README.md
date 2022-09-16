@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-nYoXkKYqPbM/XmlGfH2JyfI/AAAAAAAAOvM/VZagj9-mJeE_I33RCxltSYI9p7SZC9udgCLcBGAsYHQ/s1600/AD%2BBlogger.png)]
+![MasterHead](https://1.bp.blogspot.com/-nYoXkKYqPbM/XmlGfH2JyfI/AAAAAAAAOvM/VZagj9-mJeE_I33RCxltSYI9p7SZC9udgCLcBGAsYHQ/s1600/AD%2BBlogger.png)
 <h1 align="center">Hi 👋, I'm Aayushi Sharma</h1>
 <h3 align="center">A passionate frontend developer and android development enthusiast from India</h3>
 
