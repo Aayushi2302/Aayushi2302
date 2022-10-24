@@ -16,6 +16,9 @@
 
 - 📄 Know about my experiences [https://bit.ly/3xsHEyn](https://bit.ly/3xsHEyn)
 
+
+[![@aayushi2302's Holopin board](https://holopin.me/aayushi2302)](https://holopin.io/@aayushi2302)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aayushi-sharma-910234216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayushi-sharma-910234216" height="30" width="40" /></a>
