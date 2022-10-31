@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sharmaaayushi2302@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3xsHEyn](https://bit.ly/3xsHEyn)
+- 📄 Know about my experiences [https://bit.ly/3DLyjoI](https://bit.ly/3DLyjoI)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
