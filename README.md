@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushi2302&label=Profile%20views&color=0e75b6&style=flat" alt="aayushi2302" /> </p>
 <img align="right" width="400" alt="coding" src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-- 🔭 I’m currently working on [Memeque - A meme sharing app](https://github.com/Aayushi2302/Memeque.git)
+- 🔭 I’m currently working on [Android Mini Projects](https://github.com/Aayushi2302/Android-Mini-Projects.git)
 
 - 🌱 I’m currently learning **Kotlin**
 
