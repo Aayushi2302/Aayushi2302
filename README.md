@@ -33,8 +33,8 @@
 
 [![@aayushi2302's Holopin board](https://holopin.me/aayushi2302)](https://holopin.io/@aayushi2302)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushi2302&show_icons=true&locale=en&layout=compact" alt="aayushi2302" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushi2302&show_icons=true&theme=dracula&locale=en&layout=compact" alt="aayushi2302" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushi2302&show_icons=true&locale=en" alt="aayushi2302" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushi2302&show_icons=true&theme=dracula&locale=en" alt="aayushi2302" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushi2302&" alt="aayushi2302" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushi2302&theme=dracula" alt="aayushi2302" /></p>
