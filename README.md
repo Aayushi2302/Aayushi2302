@@ -38,3 +38,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushi2302&show_icons=true&theme=dracula&locale=en" alt="aayushi2302" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushi2302&theme=dracula" alt="aayushi2302" /></p>
+
+[![Aayushi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aayushi2302&theme=dracula)](https://github.com/aayushi/github-readme-activity-graph)
