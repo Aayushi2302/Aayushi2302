@@ -3,14 +3,14 @@
 <h3 align="center">A passionate Frontend and Android Developer from India</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushi2302&label=Profile%20views&color=0e75b6&style=flat" alt="aayushi2302" /> </p>
+<!---<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushi2302&label=Profile%20views&color=0e75b6&style=flat" alt="aayushi2302" /> </p>--->
 <img align="right" width="400" alt="coding" src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 - 🔭 I’m currently working on [Befikar - Making Women Feel Safe](https://github.com/Aayushi2302/Befikar---Making-Women-Feel-Safe.git)
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Kotlin,Python**
 
-- 💬 Ask me about **C/C++,Core Java**
+- 💬 Ask me about **C/C++,Core Java,Python**
 
 - 📫 How to reach me **sharmaaayushi2302@gmail.com**
 
@@ -39,4 +39,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushi2302&theme=dracula" alt="aayushi2302" /></p>
 
-[![Aayushi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aayushi2302&theme=dracula)](https://github.com/aayushi2302/github-readme-activity-graph)
+<!---[![Aayushi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aayushi2302&theme=dracula)](https://github.com/aayushi2302/github-readme-activity-graph)--->
